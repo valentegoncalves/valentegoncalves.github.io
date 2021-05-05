@@ -9,12 +9,6 @@
   font-style: normal;
 }
 
-@font-face {
-	font-family: 'TrajanProRegular';
-	src: url('./TrajanProRegular.eot');
-	src: local('TrajanProRegular'), url('./TrajanProRegular.woff') format('woff'), url('./TrajanProRegular.ttf') format('truetype');
-}
-
 [class^="tf-"], [class*=" tf-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'themefisher-font' !important;
